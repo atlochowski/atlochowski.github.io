@@ -8,5 +8,5 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
   
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-cayman
